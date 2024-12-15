@@ -33,6 +33,7 @@
 
 [![Mail](https://img.shields.io/badge/mail-cristiand1346%40gmail.com-dd4336?style=for-the-badge&logo=gmail)](mailto:cristiand1346@gmail.com)
 [![Discord](https://img.shields.io/badge/Delta-%235662f6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/delta7300)
+<br>
 
 <div align="center">
 <b><h2 style="color: #fc6203">T A K E &nbsp; A &nbsp; R E S T</h2> </b>
