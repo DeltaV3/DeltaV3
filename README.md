@@ -5,16 +5,21 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- 🧑‍🦱 My full name is **Cristian Daniel Cardona Correa**
+- 🧑‍🦱 My name is **Cristian Cardona**
 - :school: I'm currently 2nd year student at **UCEVA University**
 - :books: My major is **Software Engineering**
-- :earth_americas: I'm living now in **Tulua City, Colombia 🇨🇴:**
+- :earth_americas: I'm living now in **Tulua City, Colombia ![image](https://github.com/user-attachments/assets/16247c74-dbd8-40f1-adcb-e8a1e1e49067)**
+
 - :cat: I'm interested in coding, now I'm focus on learning Web Development.
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,unity,cs,c,vscode)](https://skillicons.dev)
+<br><br>
 
+
+## 📊 Stats
+![DeltaV3's languages this week](https://github-readme-stats.vercel.app/api/wakatime?username=DeltaV3&theme=algolia&layout=compact&custom_title=🌌%20This%20year)
 
 <div align="center">
 <b><h2 style="color: #fc6203">T A K E &nbsp; A &nbsp; R E S T</h2> </b>
