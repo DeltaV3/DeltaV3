@@ -13,13 +13,19 @@
 - :cat: I'm interested in coding, now I'm focus on learning Web Development.
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,unity,cs,c,vscode)](https://skillicons.dev)
+<div align="center">
+  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools</h2>
+  <p>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,html,css,js,unity,cs,c,vscode" alt="Skills"></a>
+  </p>
+</div>
+
 <br><br>
 
-
-## 📊 Stats
-![DeltaV3's languages this week](https://github-readme-stats.vercel.app/api/wakatime?username=DeltaV3&theme=algolia&layout=compact&custom_title=🌌%20This%20year)
+<div align="center">
+  <h2>📊 Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DeltaV3&theme=algolia&layout=compact&custom_title=🌌%20This%20year" alt="Stats">
+</div>
 
 <div align="center">
 <b><h2 style="color: #fc6203">T A K E &nbsp; A &nbsp; R E S T</h2> </b>
