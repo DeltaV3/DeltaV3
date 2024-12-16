@@ -7,7 +7,7 @@
 
 - 🧑‍🦱 My name is **Cristian Cardona**
 - :school: I'm currently 2nd year student at **UCEVA University**
-- :books: My major is **Software Engineering**
+- :books: My major is **Systems Engineering**
 - :earth_americas: I'm living now in **Tulua City, Colombia ![image](https://github.com/user-attachments/assets/16247c74-dbd8-40f1-adcb-e8a1e1e49067)**
 
 - :cat: I'm interested in coding, now I'm focus on learning Web Development.
