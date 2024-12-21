@@ -15,7 +15,7 @@
 
 <div align="center">
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools</h2>    <br>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,html,css,js" alt="Skills"></a><br>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,idea,html,css,js" alt="Skills"></a><br>
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity,cs,c,vscode" alt="Skills"></a>
 </div>
 <br>
