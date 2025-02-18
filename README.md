@@ -1,4 +1,4 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=DeltaV3&color=FAC151)
+[![](https://visitcount.itsvg.in/api?id=DeltaV3&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=40&center=true&vCenter=true&height=50&width=500&lines=Heyyy!+I'm+Delta;Welcome+to+my+profile!" alt="Title"></img>
 </div>
